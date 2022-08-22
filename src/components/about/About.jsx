@@ -40,7 +40,7 @@ const about = () => {
             </article>
           </div>
 
-          <p>Meu nome é Almir Jr , Tenho 18 anos, começei estudar programação em janeiro de 2022 no DevClub e junto começei a fazer minha faculdade de 
+          <p>Eu sou Almir Jr , Tenho 18 anos, comecei estudar programação em janeiro de 2022 no DevClub e junto comecei a fazer minha faculdade de 
             Análise e Desenvolvimento de Sistemas. Estudo programação Full-Stack mas estou priorizando Front-End, quero me dedicar cada vez mais e buscar sempre conhecimento. 
           </p>
 
