@@ -5,7 +5,7 @@ import IMG2 from '../../assets/pokedex.png'
 import IMG3 from '../../assets/relogio.png'
 import IMG4 from '../../assets/calculadora.png'
 import IMG5 from '../../assets/weatherapp.png'
-import IMG6 from '../../assets/netflixclone.png'
+import IMG6 from '../../assets/countdown.png'
 
 const Portfolio = () => {
   return (
@@ -68,10 +68,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
-           <h3>Netflix Clone | React</h3>
+           <h3>CountDown | JavaScript</h3>
            <div className="portfolio__item-cta">
-           <a href="https://github.com/AlmirJrDev/Netflix-Clone-React" className='btn btn-primary' target={'_blank'}>Git Repositories</a>
-         
+           <a href="https://github.com/AlmirJrDev/Countdown" className='btn' target={'_blank'}>Git Repositories</a>
+           <a href="https://almirjrdev.github.io/Countdown/" className='btn btn-primary' target={'_blank'}>GitPages</a>
           </div>
         </article>
       </div>

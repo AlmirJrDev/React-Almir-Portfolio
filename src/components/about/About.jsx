@@ -23,7 +23,9 @@ const about = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Academy</h5>
-              <small>8 Meses de DevClub e Unipar</small>
+              <small>1 ano estudo Front-End <br />
+              Rocketseat <br />
+              Dev Club e ADS Unipar</small>
             </article>
 
             <article className='about__card'>
@@ -40,8 +42,8 @@ const about = () => {
             </article>
           </div>
 
-          <p>Eu sou Almir Jr , Tenho 18 anos, comecei estudar programação em janeiro de 2022 no DevClub e junto comecei a fazer minha faculdade de 
-            Análise e Desenvolvimento de Sistemas. Estudo programação Full-Stack mas estou priorizando Front-End, quero me dedicar cada vez mais e buscar sempre conhecimento. 
+          <p>Eu sou Almir Jr , Tenho 19 anos, comecei estudar programação em janeiro de 2022, faço parte da DevClub, Rocketseat, e junto comecei a fazer minha faculdade de 
+            Análise e Desenvolvimento de Sistemas. De inicio começei a estudar a Full-Stack mas me aprofundei em programação Front-end, quero me dedicar cada vez mais e buscar sempre conhecimento. 
           </p>
 
           <a href="#contact" className='btn btn-primary'>Vamos Conversar</a>
