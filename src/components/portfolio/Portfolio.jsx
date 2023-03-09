@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/Dask Dark Pc.png'
 import IMG2 from '../../assets/pokedex.png'
-import IMG3 from '../../assets/relogio.png'
+import IMG3 from '../../assets/TodoList.png'
 import IMG4 from '../../assets/calculadora.png'
 import IMG5 from '../../assets/weatherapp.png'
 import IMG6 from '../../assets/countdown.png'
@@ -28,7 +28,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
-           <h3>Pokédex | API</h3>
+           <h3>Pokédex | JS & API</h3>
            <div className="portfolio__item-cta">
            <a href="https://github.com/AlmirJrDev/Pok-dex" className='btn' target={'_blank'}>Git Repositories</a>
            <a href="https://almirjrdev.github.io/Pok-dex/" className='btn btn-primary' target={'_blank'}>GitPages</a>
@@ -38,10 +38,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-           <h3>Relógio | JavaScript</h3>
+           <h3>To-Do-List | React</h3>
            <div className="portfolio__item-cta">
-           <a href="https://github.com/AlmirJrDev/Relogio" className='btn' target={'_blank'}>Git Repositories</a>
-           <a href="https://almirjrdev.github.io/Relogio/" className='btn btn-primary' target={'_blank'}>GitPages</a>
+           <a href="https://github.com/AlmirJrDev/ToDoListRocketseat" className='btn' target={'_blank'}>Git Repositories</a>
+           <a href="https://to-do-list-rocketseat-ten.vercel.app/" className='btn btn-primary' target={'_blank'}>GitPages</a>
            </div>
         </article>
         <article className='portfolio__item'>
