@@ -6,6 +6,7 @@ import IMG3 from '../../assets/TodoList.png'
 import IMG4 from '../../assets/calculadora.png'
 import IMG5 from '../../assets/weatherapp.png'
 import IMG6 from '../../assets/countdown.png'
+import IMG7 from '../../assets/Timepomodoro.png'
 
 const Portfolio = () => {
   return (
@@ -72,6 +73,16 @@ const Portfolio = () => {
            <div className="portfolio__item-cta">
            <a href="https://github.com/AlmirJrDev/Countdown" className='btn' target={'_blank'}>Git Repositories</a>
            <a href="https://almirjrdev.github.io/Countdown/" className='btn btn-primary' target={'_blank'}>GitPages</a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG7} alt="" />
+          </div>
+           <h3>TimePomodoro | React & TypeScript</h3>
+           <div className="portfolio__item-cta">
+           <a href="https://github.com/AlmirJrDev/TimePomodoro" className='btn' target={'_blank'}>Git Repositories</a>
+           <a href="https://time-pomodoro.vercel.app/" className='btn btn-primary' target={'_blank'}>GitPages</a>
           </div>
         </article>
       </div>
