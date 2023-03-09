@@ -46,7 +46,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Quase tudo hojé está na palma da mão</p> 
+              <p>Quase tudo hoje está na palma da mão</p> 
             </li>
             <li>
               <BiCheck className='service__list-icon' />
