@@ -7,6 +7,8 @@ import IMG4 from '../../assets/calculadora.png'
 import IMG5 from '../../assets/weatherapp.png'
 import IMG6 from '../../assets/countdown.png'
 import IMG7 from '../../assets/Timepomodoro.png'
+import IMG8 from '../../assets/dt-money.png'
+import IMG9 from '../../assets/igniteshop.png'
 
 const Portfolio = () => {
   return (
@@ -83,6 +85,26 @@ const Portfolio = () => {
            <div className="portfolio__item-cta">
            <a href="https://github.com/AlmirJrDev/TimePomodoro" className='btn' target={'_blank'}>Git Repositories</a>
            <a href="https://time-pomodoro.vercel.app/" className='btn btn-primary' target={'_blank'}>GitPages</a>
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG8} alt="" />
+          </div>
+           <h3>Dt Money | Json-Server - TypeScript - Radix</h3>
+           <div className="portfolio__item-cta">
+           <a href="https://github.com/AlmirJrDev/DT-Money" className='btn' target={'_blank'}>Git Repositories</a>
+           
+          </div>
+        </article>
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG9} alt="" />
+          </div>
+           <h3>Ignite Shop | Stripe - NextJS - TypeScript</h3>
+           <div className="portfolio__item-cta">
+           <a href="https://github.com/AlmirJrDev/Ignite-Shop" className='btn' target={'_blank'}>Git Repositories</a>
+           <a href="https://ignite-shop-almirjrdev.vercel.app/" className='btn btn-primary' target={'_blank'}>GitPages</a>
           </div>
         </article>
       </div>
