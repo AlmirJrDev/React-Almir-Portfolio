@@ -42,7 +42,7 @@ const about = () => {
             </article>
           </div>
 
-          <p>Eu sou Almir Jr , Tenho 19 anos, comecei estudar programação em janeiro de 2022, faço parte da DevClub, Rocketseat, e junto comecei a fazer minha faculdade de 
+          <p>Eu sou Almir Jr , Tenho 20 anos, comecei estudar programação em janeiro de 2022, faço parte da DevClub, Rocketseat, e junto comecei a fazer minha faculdade de 
             Análise e Desenvolvimento de Sistemas. De inicio começei a estudar a Full-Stack mas me aprofundei em programação Front-end, quero me dedicar cada vez mais e buscar sempre conhecimento. 
           </p>
 
